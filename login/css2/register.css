@@ -1,0 +1,17 @@
+.privacypolicy {
+    font-size: 0.14rem;
+    font-weight: 400;
+    color: #2e2e30;
+    line-height: 0.22rem;
+    margin-top: 0.25rem;
+    margin-bottom: .2rem;
+  }
+  .active_checked {
+    width: 0.22rem;
+    height: 0.22rem;
+    margin-right: 0.08rem;
+  }
+  .privacypolicy_text span {
+    color: #385bd2;
+  }
+  

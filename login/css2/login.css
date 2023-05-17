@@ -1,0 +1,69 @@
+.hello {
+    font-size: 0.26rem;
+    font-weight: 400;
+    color: #323232;
+    line-height: 0.37rem;
+  }
+  .welcome {
+    font-size: 0.3rem;
+    font-weight: 800;
+    color: #323232;
+    line-height: 0.42rem;
+    margin-top: 0.06rem;
+  }
+  .tab_box {
+    width: 4.2rem;
+    height: 0.5rem;
+    background: #e2e6f0;
+    border-radius: 0.06rem;
+    margin-top: 0.6rem;
+    padding: 0.04rem;
+    position: relative;
+  }
+  .tab_item {
+    width: 2rem;
+    height: 0.41rem;
+    background: transparent;
+    border-radius: 0.04rem;
+    font-size: 0.16rem;
+    font-weight: 400;
+    color: #545b66;
+    line-height: 0.41rem;
+    text-align: center;
+    position: relative;
+    z-index: 9;
+  }
+  #chunk_box {
+    width: 2rem;
+    height: 0.41rem;
+    background: #ffffff;
+    border-radius: 0.04rem;
+    position: absolute;
+    z-index: 1;
+  }
+  .right1 {
+    right: 0.04rem;
+  }
+  .right2 {
+    right: 2.16rem;
+  }
+  
+  .tab_item_active {
+    color: #385bd2;
+  }
+  .extra_box {
+    font-size: 0.14rem;
+    font-weight: 400;
+    color: #385bd2;
+    line-height: 0.2rem;
+    margin-top: 0.2rem;
+  }
+  .extra_box font {
+    color: #dad9d9;
+    margin: 0 0.12rem;
+  }
+  .extra_box a:active {
+    color: #385bd2;
+    opacity: 0.85;
+  }
+  
